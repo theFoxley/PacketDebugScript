@@ -1,8 +1,8 @@
 # PacketDebugScript
 Packet debugger script for LiquidBounce.
 
-Useful :
-- to debug packet from anticheat
-- to debug packet from a server to know how they manage packets
-- to test if your server sends too many packets
-- to test if a server is a shitty one
+Useful to :
+- debug packet from anticheat
+- debug packet from a server to know how they manage packets
+- test if your server sends too many packets
+- test if a server is a shitty one
